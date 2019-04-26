@@ -1,0 +1,11 @@
+C:\Users\Newforce\workspace\csharp\book1\chapter-5\list-of-dictionaries\bin\Debug\netcoreapp2.2\list-of-dictionaries.deps.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-5\list-of-dictionaries\bin\Debug\netcoreapp2.2\list-of-dictionaries.runtimeconfig.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-5\list-of-dictionaries\bin\Debug\netcoreapp2.2\list-of-dictionaries.runtimeconfig.dev.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-5\list-of-dictionaries\bin\Debug\netcoreapp2.2\list-of-dictionaries.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-5\list-of-dictionaries\bin\Debug\netcoreapp2.2\list-of-dictionaries.pdb
+C:\Users\Newforce\workspace\csharp\book1\chapter-5\list-of-dictionaries\obj\Debug\netcoreapp2.2\list-of-dictionaries.csprojAssemblyReference.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-5\list-of-dictionaries\obj\Debug\netcoreapp2.2\list-of-dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-5\list-of-dictionaries\obj\Debug\netcoreapp2.2\list-of-dictionaries.AssemblyInfoInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-5\list-of-dictionaries\obj\Debug\netcoreapp2.2\list-of-dictionaries.AssemblyInfo.cs
+C:\Users\Newforce\workspace\csharp\book1\chapter-5\list-of-dictionaries\obj\Debug\netcoreapp2.2\list-of-dictionaries.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-5\list-of-dictionaries\obj\Debug\netcoreapp2.2\list-of-dictionaries.pdb
